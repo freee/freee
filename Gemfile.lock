@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    freee-joke (0.0.1)
+      curses
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    curses (1.4.4)
+    rake (13.0.6)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  freee-joke!
+  rake
+
+BUNDLED WITH
+   2.3.26
