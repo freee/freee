@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.email = ["tadashi-tada@freee.co.jp"]
 
   spec.summary = %q{A joke program like "sl".}
-  spec.description = %q{A joke program like the "sl" command that is executed when you mistype "free" for "freee".}
+  spec.description = %q{A joke program like the "sl" command that is executed when you try to type "free" but mistype "freee".}
   spec.homepage = "https://github.com/freee/freee"
   spec.required_ruby_version = ">= 2.7.0"
 
