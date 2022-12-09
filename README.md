@@ -2,7 +2,7 @@
 
 A joke program like the "sl" command that is executed when you try to type "free" but mistype "freee".
 
-<div><video controls src="freee-demo.mp4" muted="true"></video></div>
+![](freee-demo.gif)
 
 ## Installation and Setup
 
